@@ -1,0 +1,666 @@
+The match name is 
+                  Final
+                 
+The match was played between RCB and PBKS
+ The match was played at Narendra Modi Stadium, , Ahmedabad
+The winner of the match is Royal Challengers Bengaluru Won by 6  Runs (Winners)
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Qualifier 2
+                 
+The match was played between PBKS and MI
+ The match was played at Narendra Modi Stadium, , Ahmedabad
+The winner of the match is Punjab Kings Won by 5  Wickets (Qualified)
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Eliminator
+                 
+The match was played between GT and MI
+ The match was played at New PCA Stadium, , Chandigarh
+The winner of the match is Mumbai Indians Won by 20  Runs (Qualified)
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Qualifier 1
+                 
+The match was played between PBKS and RCB
+ The match was played at New PCA Stadium, , Chandigarh
+The winner of the match is Royal Challengers Bengaluru Won by 8  Wickets (Qualified)
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 70
+                 
+The match was played between LSG and RCB
+ The match was played at Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, , Lucknow
+The winner of the match is Royal Challengers Bengaluru Won by 6  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 69
+                 
+The match was played between PBKS and MI
+ The match was played at Sawai Mansingh Stadium, , Jaipur
+The winner of the match is Punjab Kings Won by 7  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 68
+                 
+The match was played between SRH and KKR
+ The match was played at Arun Jaitley Stadium, , Delhi
+The winner of the match is Sunrisers Hyderabad Won by 110  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 67
+                 
+The match was played between GT and CSK
+ The match was played at Narendra Modi Stadium, , Ahmedabad
+The winner of the match is Chennai Super Kings Won by 83  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 66
+                 
+The match was played between PBKS and DC
+ The match was played at Sawai Mansingh Stadium, , Jaipur
+The winner of the match is Delhi Capitals Won by 6  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 65
+                 
+The match was played between RCB and SRH
+ The match was played at Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, , Lucknow
+The winner of the match is Sunrisers Hyderabad Won by 42  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 64
+                 
+The match was played between GT and LSG
+ The match was played at Narendra Modi Stadium, , Ahmedabad
+The winner of the match is Lucknow Super Giants Won by 33  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 63
+                 
+The match was played between MI and DC
+ The match was played at Wankhede Stadium, , Mumbai
+The winner of the match is Mumbai Indians Won by 59  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 62
+                 
+The match was played between CSK and RR
+ The match was played at Arun Jaitley Stadium, , Delhi
+The winner of the match is Rajasthan Royals Won by 6  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 61
+                 
+The match was played between LSG and SRH
+ The match was played at Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, , Lucknow
+The winner of the match is Sunrisers Hyderabad Won by 6  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 60
+                 
+The match was played between DC and GT
+ The match was played at Arun Jaitley Stadium, , Delhi
+The winner of the match is Gujarat Titans Won by 10  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 59
+                 
+The match was played between RR and PBKS
+ The match was played at Sawai Mansingh Stadium, , Jaipur
+The winner of the match is Punjab Kings Won by 10  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 58
+                 
+The match was played between RCB and KKR
+ The match was played at M Chinnaswamy Stadium, , Bengaluru
+The winner of the match is Match Abandoned
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 57
+                 
+The match was played between KKR and CSK
+ The match was played at Eden Gardens, , Kolkata
+The winner of the match is Chennai Super Kings Won by 2  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 56
+                 
+The match was played between MI and GT
+ The match was played at Wankhede Stadium, , Mumbai
+The winner of the match is Gujarat Titans Won by 3  Wickets  (D/L Method)
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 55
+                 
+The match was played between SRH and DC
+ The match was played at Rajiv Gandhi International Stadium, , Hyderabad
+The winner of the match is No Result
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 54
+                 
+The match was played between PBKS and LSG
+ The match was played at Himachal Pradesh Cricket Association Stadium, , Dharamshala
+The winner of the match is Punjab Kings Won by 37  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 53
+                 
+The match was played between KKR and RR
+ The match was played at Eden Gardens, , Kolkata
+The winner of the match is Kolkata Knight Riders Won by 1  Run
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 52
+                 
+The match was played between RCB and CSK
+ The match was played at M Chinnaswamy Stadium, , Bengaluru
+The winner of the match is Royal Challengers Bengaluru Won by 2  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 51
+                 
+The match was played between GT and SRH
+ The match was played at Narendra Modi Stadium, , Ahmedabad
+The winner of the match is Gujarat Titans Won by 38  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 50
+                 
+The match was played between RR and MI
+ The match was played at Sawai Mansingh Stadium, , Jaipur
+The winner of the match is Mumbai Indians Won by 100  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 49
+                 
+The match was played between CSK and PBKS
+ The match was played at MA Chidambaram Stadium, , Chennai
+The winner of the match is Punjab Kings Won by 4  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 48
+                 
+The match was played between DC and KKR
+ The match was played at Arun Jaitley Stadium, , Delhi
+The winner of the match is Kolkata Knight Riders Won by 14  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 47
+                 
+The match was played between RR and GT
+ The match was played at Sawai Mansingh Stadium, , Jaipur
+The winner of the match is Rajasthan Royals Won by 8   Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 46
+                 
+The match was played between DC and RCB
+ The match was played at Arun Jaitley Stadium, , Delhi
+The winner of the match is Royal Challengers Bengaluru Won by 6  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 45
+                 
+The match was played between MI and LSG
+ The match was played at Wankhede Stadium, , Mumbai
+The winner of the match is Mumbai Indians Won by 54  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 44
+                 
+The match was played between KKR and PBKS
+ The match was played at Eden Gardens, , Kolkata
+The winner of the match is No Result
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 43
+                 
+The match was played between CSK and SRH
+ The match was played at MA Chidambaram Stadium, , Chennai
+The winner of the match is Sunrisers Hyderabad Won by 5  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 42
+                 
+The match was played between RCB and RR
+ The match was played at M Chinnaswamy Stadium, , Bengaluru
+The winner of the match is Royal Challengers Bengaluru Won by 11  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 41
+                 
+The match was played between SRH and MI
+ The match was played at Rajiv Gandhi International Stadium, , Hyderabad
+The winner of the match is Mumbai Indians Won by 7  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 40
+                 
+The match was played between LSG and DC
+ The match was played at Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, , Lucknow
+The winner of the match is Delhi Capitals Won by 8  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 39
+                 
+The match was played between KKR and GT
+ The match was played at Eden Gardens, , Kolkata
+The winner of the match is Gujarat Titans Won by 39  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 38
+                 
+The match was played between MI and CSK
+ The match was played at Wankhede Stadium, , Mumbai
+The winner of the match is Mumbai Indians Won by 9  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 37
+                 
+The match was played between PBKS and RCB
+ The match was played at New PCA Stadium, , Chandigarh
+The winner of the match is Royal Challengers Bengaluru Won by 7  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 36
+                 
+The match was played between RR and LSG
+ The match was played at Sawai Mansingh Stadium, , Jaipur
+The winner of the match is Lucknow Super Giants Won by 2  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 35
+                 
+The match was played between GT and DC
+ The match was played at Narendra Modi Stadium, , Ahmedabad
+The winner of the match is Gujarat Titans Won by 7  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 34
+                 
+The match was played between RCB and PBKS
+ The match was played at M Chinnaswamy Stadium, , Bengaluru
+The winner of the match is Punjab Kings Won by 5  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 33
+                 
+The match was played between MI and SRH
+ The match was played at Wankhede Stadium, , Mumbai
+The winner of the match is Mumbai Indians Won by 4  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 32
+                 
+The match was played between DC and RR
+ The match was played at Arun Jaitley Stadium, , Delhi
+The winner of the match is Delhi Capitals Won by Super Over
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 31
+                 
+The match was played between PBKS and KKR
+ The match was played at New PCA Stadium, , Chandigarh
+The winner of the match is Punjab Kings Won by 16  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 30
+                 
+The match was played between LSG and CSK
+ The match was played at Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, , Lucknow
+The winner of the match is Chennai Super Kings Won by 5  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 29
+                 
+The match was played between DC and MI
+ The match was played at Arun Jaitley Stadium, , Delhi
+The winner of the match is Mumbai Indians Won by 12  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 28
+                 
+The match was played between RR and RCB
+ The match was played at Sawai Mansingh Stadium, , Jaipur
+The winner of the match is Royal Challengers Bengaluru Won by 9  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 27
+                 
+The match was played between SRH and PBKS
+ The match was played at Rajiv Gandhi International Stadium, , Hyderabad
+The winner of the match is Sunrisers Hyderabad Won by 8  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 26
+                 
+The match was played between LSG and GT
+ The match was played at Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, , Lucknow
+The winner of the match is Lucknow Super Giants Won by 6  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 25
+                 
+The match was played between CSK and KKR
+ The match was played at MA Chidambaram Stadium, , Chennai
+The winner of the match is Kolkata Knight Riders Won by 8  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 24
+                 
+The match was played between RCB and DC
+ The match was played at M Chinnaswamy Stadium, , Bengaluru
+The winner of the match is Delhi Capitals Won by 6  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 23
+                 
+The match was played between GT and RR
+ The match was played at Narendra Modi Stadium, , Ahmedabad
+The winner of the match is Gujarat Titans Won by 58  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 22
+                 
+The match was played between PBKS and CSK
+ The match was played at New PCA Stadium, , Chandigarh
+The winner of the match is Punjab Kings Won by 18  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 19
+                 
+The match was played between KKR and LSG
+ The match was played at Eden Gardens, , Kolkata
+The winner of the match is Lucknow Super Giants Won by 4  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 21
+                 
+The match was played between MI and RCB
+ The match was played at Wankhede Stadium, , Mumbai
+The winner of the match is Royal Challengers Bengaluru Won by 12  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 20
+                 
+The match was played between SRH and GT
+ The match was played at Rajiv Gandhi International Stadium, , Hyderabad
+The winner of the match is Gujarat Titans Won by 7  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 18
+                 
+The match was played between PBKS and RR
+ The match was played at New PCA Stadium, , Chandigarh
+The winner of the match is Rajasthan Royals Won by 50  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 17
+                 
+The match was played between CSK and DC
+ The match was played at MA Chidambaram Stadium, , Chennai
+The winner of the match is Delhi Capitals Won by 25  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 16
+                 
+The match was played between LSG and MI
+ The match was played at Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, , Lucknow
+The winner of the match is Lucknow Super Giants Won by 12  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 15
+                 
+The match was played between KKR and SRH
+ The match was played at Eden Gardens, , Kolkata
+The winner of the match is Kolkata Knight Riders Won by 80  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 14
+                 
+The match was played between RCB and GT
+ The match was played at M Chinnaswamy Stadium, , Bengaluru
+The winner of the match is Gujarat Titans Won by 8  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 13
+                 
+The match was played between LSG and PBKS
+ The match was played at Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, , Lucknow
+The winner of the match is Punjab Kings Won by 8  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 12
+                 
+The match was played between MI and KKR
+ The match was played at Wankhede Stadium, , Mumbai
+The winner of the match is Mumbai Indians Won by 8  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 11
+                 
+The match was played between RR and CSK
+ The match was played at ACA Stadium, , Guwahati
+The winner of the match is Rajasthan Royals Won by 6  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 10
+                 
+The match was played between DC and SRH
+ The match was played at Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium, , Visakhapatnam
+The winner of the match is Delhi Capitals Won by 7  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 9
+                 
+The match was played between GT and MI
+ The match was played at Narendra Modi Stadium, , Ahmedabad
+The winner of the match is Gujarat Titans Won by 36  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 8
+                 
+The match was played between CSK and RCB
+ The match was played at MA Chidambaram Stadium, , Chennai
+The winner of the match is Royal Challengers Bengaluru Won by 50  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 7
+                 
+The match was played between SRH and LSG
+ The match was played at Rajiv Gandhi International Stadium, , Hyderabad
+The winner of the match is Lucknow Super Giants Won by 5  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 6
+                 
+The match was played between RR and KKR
+ The match was played at ACA Stadium, , Guwahati
+The winner of the match is Kolkata Knight Riders Won by 8  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 5
+                 
+The match was played between GT and PBKS
+ The match was played at Narendra Modi Stadium, , Ahmedabad
+The winner of the match is Punjab Kings Won by 11  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 4
+                 
+The match was played between DC and LSG
+ The match was played at Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium, , Visakhapatnam
+The winner of the match is Delhi Capitals Won by 1  Wicket
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 3
+                 
+The match was played between CSK and MI
+ The match was played at MA Chidambaram Stadium, , Chennai
+The winner of the match is Chennai Super Kings Won by 4  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 2
+                 
+The match was played between SRH and RR
+ The match was played at Rajiv Gandhi International Stadium, , Hyderabad
+The winner of the match is Sunrisers Hyderabad Won by 44  Runs
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+The match name is 
+                  Match 1
+                 
+The match was played between KKR and RCB
+ The match was played at Eden Gardens, , Kolkata
+The winner of the match is Royal Challengers Bengaluru Won by 7  Wickets
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
